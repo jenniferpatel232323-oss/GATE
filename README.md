@@ -8,4 +8,4 @@
 # $\textcolor{#FF8169}{\text{--------------Started Chapter 2 : Transaction and Concurrency control--------------}}$
 2. DBMS lecture 1 Done✅
 
-# $\textcolor{#  F55800}{\text{Date - 5 Aug 2027}}$
+# $\textcolor{#F55800}{\text{Date - 5 Aug 2027}}$
